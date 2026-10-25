@@ -1,4 +1,4 @@
-<img width="67" height="67" alt="converterlogo-1 png" src="https://github.com/user-attachments/assets/71a9b8a3-11dd-4a3b-b3a4-ffbbaa00a93b" />
+<img width="201" height="201" alt="converter-logo" src="https://github.com/user-attachments/assets/71a9b8a3-11dd-4a3b-b3a4-ffbbaa00a93b" />
 
 # speedram-ow-image-converter
 Image converter for Speedram Ow
