@@ -5,6 +5,8 @@ Simple image converter for Speedram Ow
 
 ## Controls
 
-You can also hit ` to reset the tool
+` = Resets the tool
+
+## Instructions
 
 # Speedram Ow can be found [here](https://scratch.mit.edu/projects/1390915766)
